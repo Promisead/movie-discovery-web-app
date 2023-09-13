@@ -103,7 +103,7 @@ ChatGPT
 
 ## Author
 
-- Website - [Trae Zeeofor](https://github.com/Promisead)
+- Website - [Promise Duke](https://github.com/Promisead)
 
 ## Acknowledgments
 
