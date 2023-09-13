@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Self-Taught Bootcamp</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-react-black.ico"
+    />
+    <link rel="stylesheet" type="text/css" href="zuri.css" />
+  </head>
+  <body>
+    <main>
+      <!-- header -->
+      <header>
+        <nav>
+          <h1>Movie Discovery Web App</h1>
+          <aside>
+            <button>Home</button>
+            <button>Favourites</button>
+          </aside>
+        </nav>
+        <menu>
+          <input
+            type="search"
+            placeholder="What do you want to watch?"
+            class="menu-input"
+          />
+          <div class="icon-magnify-container">
+            <img
+              src="/public/images/icon-magnify.png"
+              alt=""
+              class="icon-magnify"
+            />
+          </div>
+        </menu>
+      </header>
+
+      <!-- section -->
+      <section class="sec-cdet">
+        <article class="sec-cdet-art" data-testid="movie-card">
+          <div class="sec-cdet-movpcon">
+            <img
+              src="/public/images/movie-poster.jpg"
+              alt=""
+              class="sec-cdet-movie-poster"
+              data-testid="movie-poster"
+            />
+          </div>
+          <div>
+            <h2 class="sec-cdet-movie-title" data-testid="movie-title">
+              <span class="sec-cdet-movtitprop">Movie Title: </span
+              ><span class="sec-cdet-movtitval"
+                >A long time ago in a galaxy far, far away</span
+              >
+            </h2>
+            <h3 class="sec-cdet-movreldat" data-testid="movie-release-date">
+              <span class="sec-cdet-movrelprop">Movie Release Date: </span
+              ><span class="sec-cdet-movrelval"> movie release date</span>
+            </h3>
+          </div>
+        </article>
+        
+      </section>
+
+      <!-- footer -->
+      <footer>
+        <div class="icon-div">
+          <div class="icon-smedia-container">
+            <img
+              src="/public/images/icon-facebook.png"
+              alt=""
+              class="icon-smedia"
+            />
+          </div>
+          <div class="icon-smedia-container">
+            <img
+              src="/public/images/icon-instagram.png"
+              alt=""
+              class="icon-smedia"
+            />
+          </div>
+          <div class="icon-smedia-container">
+            <img
+              src="/public/images/icon-twitter.png"
+              alt=""
+              class="icon-smedia"
+            />
+          </div>
+          <div class="icon-smedia-container">
+            <img
+              src="/public/images/icon-youtube.png"
+              alt=""
+              class="icon-smedia"
+            />
+          </div>
+        </div>
+        <div class="div-bs">
+          <b>Conditions of Use</b>
+          <b>Privacy & Policy</b>
+          <b>Press Room</b>
+        </div>
+        <small>
+          <i>©2023 Trae Zeeofor</i>
+          <a
+            href="https://github.com/traez/movie-discovery-web-app"
+            target="_blank"
+            class=""
+            >Source Code</a
+          >
+        </small>
+      </footer>
+    </main>
+
+    <script src="zuri.js"></script>
+  </body>
+</html>

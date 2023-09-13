@@ -1,0 +1,50 @@
+------------------------------------------------------------------------------------------Main
+------------------------------------------------------------------------Header 1fr
+---------------------------------------------------------Nav
+--------------------------------------------H1 Name
+--------------------------------------------Aside 
+-----------------------------------Button Home
+-----------------------------------Button Favourites
+---------------------------------------------------------Menu Input
+------------------------------------------------------------------------Section Auto
+---------------------------------------------------------Article X10
+------------------------------------------------------------------------Footer 1fr
+---------------------------------------------------------Div X4 DivImg
+---------------------------------------------------------Div X3 b
+---------------------------------------------------------Small
+----------------------------------------------
+http://hngx-stagetwo.vercel.app/
+https://github.com/Clinzho1996/hngx-stagetwo
+----------------------------------------------
+API Key
+7784022c0485d783a38b991b4cfe1333
+
+Application 
+https://www.themoviedb.org/settings/api
+https://api.themoviedb.org/3/movie/popular
+https://api.themoviedb.org/3/movie/top_rated
+https://api.themoviedb.org/3/movie/popular?api_key=7784022c0485d783a38b991b4cfe1333
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=7784022c0485d783a38b991b4cfe1333
+https://api.themoviedb.org/3/movie/615656?api_key=7784022c0485d783a38b991b4cfe1333
+`https://api.themoviedb.org/3/search/movie?api_key=${process.env.NEXT_PUBLIC_MOVIE_DB_API_KEY}&language=en-US&page=1&include_adult=false&query=${searchText}`
+----------------------------------------------
+Components: Home, Details, Favourites
+View: Home & Favourite: Grid Responsive. Detail Same
+HomePage: 10 movies with 4 detail each in Card
+Card: List 4 specific detail
+Card: route is /movies/:id (where :id is the imdb_id)
+Search by title
+Show loading indicator when fetching/Show error indicator if fail
+Endpoint given
+https://rest-countries-api-with-color-theme-switcher-traez.vercel.app/
+----------------------------------------------
+-Things learnt:
+-hide Key
+-search functional/favourites not
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+
+
+
