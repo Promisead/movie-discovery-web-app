@@ -68,8 +68,9 @@ Create a movie discovery web application that allows users to search for movies,
 
 ### Links
 
-- Solution URL: [https://github.com/traez/movie-discovery-web-app](https://github.com/traez/movie-discovery-web-app)
-- Live Site URL: [https://movie-discovery-web-app-traez.vercel.app](https://movie-discovery-web-app-traez.vercel.app)
+- Solution URL: [https://github.com/Promisead/movie-discovery-web-app](https://github.com/Promisead/movie-discovery-web-app)
+
+- Live Site URL: [https://movie-discovery-web-app-delta.vercel.app](https://movie-discovery-web-app-delta.vercel.app)
 
 ## My process
 
@@ -78,15 +79,15 @@ Create a movie discovery web application that allows users to search for movies,
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid 
+- CSS Grid
 - Tailwind CSS (NOT USED!!!)
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library 
+- [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
 
 ### What I learned
 
-- Still trying to figure out a way to use Environment variables to store sensitive information (API keys) outside of the code. 
+- Still trying to figure out a way to use Environment variables to store sensitive information (API keys) outside of the code.
 - Search functionality implemented, but not so for favourite functionality, because amnesty taken as granted by mentors. Lols.
 
 ### Continued development
@@ -102,10 +103,10 @@ ChatGPT
 
 ## Author
 
-- Website - [Trae Zeeofor](https://github.com/traez)
-- Twitter - [@trae_z](https://twitter.com/trae_z)
+- Website - [Trae Zeeofor](https://github.com/Promisead)
 
 ## Acknowledgments
 
-Happy 2 months birthday to my son Trevor. I love you so so much!
+ZURI TEAM
+
 # movie-discovery-app
