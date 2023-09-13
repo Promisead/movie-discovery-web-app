@@ -68,8 +68,8 @@ Create a movie discovery web application that allows users to search for movies,
 
 ### Links
 
-- Solution URL: [https://github.com/traez/movie-discovery-web-app](https://github.com/traez/movie-discovery-web-app)
-- Live Site URL: [https://movie-discovery-web-app-traez.vercel.app](https://movie-discovery-web-app-traez.vercel.app)
+- Solution URL: [https://github.com/Promisead/movie-discovery-web-app](https://github.com/Promisead/movie-discovery-web-app)
+- Live Site URL: [https://movie-discovery-web-app-delta.vercel.app](https://movie-discovery-web-app-delta.vercel.app)
 
 ## My process
 
@@ -102,10 +102,10 @@ ChatGPT
 
 ## Author
 
-- Website - [Trae Zeeofor](https://github.com/traez)
-- Twitter - [@trae_z](https://twitter.com/trae_z)
+- Website - [Trae Zeeofor](https://github.com/promisead)
+
 
 ## Acknowledgments
 
-Happy 2 months birthday to my son Trevor. I love you so so much!
+
 # movie-discovery-app
